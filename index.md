@@ -26,7 +26,7 @@ PC： Mac OS Catalina 10.15.4
 - [waidayo](#waidayo) : https://apps.apple.com/jp/app/waidayo/id1513166077
 - [Koigao](#Koigao) : https://apps.apple.com/jp/app/id1507679306
 - [3toneFT](#3toneFT)（PC側アプリ有料のため確認できず） : https://apps.apple.com/jp/app/3teneft/id1452730104
-- [バ美肉Camera（仮）](#バ美肉Camera（仮）) : 自作アプリ
+- [バ美肉Camera（仮）](#バ美肉camera仮) : 自作アプリ
 
 ## 2DR
 ![](2020-05-26-23-09-54.jpg)
