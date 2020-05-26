@@ -19,6 +19,14 @@
 端末： iPad Pro 2018 11inch iOS 13.4.1  
 PC： Mac OS Catalina 10.15.4
 
+## 確認したアプリ一覧
+- 2DR : https://apps.apple.com/us/app/2dr/id1471949953?l=ja
+- ZZ3D : https://apps.apple.com/jp/app/zz3d/id1475406292
+- waidayo : https://apps.apple.com/jp/app/waidayo/id1513166077
+- Koigao : https://apps.apple.com/jp/app/id1507679306
+- 3toneFT（PC側アプリ有料のため確認できず） : https://apps.apple.com/jp/app/3teneft/id1452730104
+- バ美肉MCamera（仮）：自作アプリ
+
 ## 2DR
 ![](2020-05-26-23-09-54.jpg)
 ![](2020-05-26-23-10-21.jpg)
