@@ -30,11 +30,11 @@ Update: 2020/5/27
 PC： Mac OS Catalina 10.15.4
 
 ## 確認したアプリ一覧
-- [2DR](#2dr) : [https://apps.apple.com/us/app/2dr/id1471949953?l=ja](https://apps.apple.com/us/app/2dr/id1471949953?l=ja)
+- [2DR](#2dr) : <https://apps.apple.com/us/app/2dr/id1471949953?l=ja>
 - [ZZ3D](#zz3d) : <https://apps.apple.com/jp/app/zz3d/id1475406292>
-- [waidayo](#waidayo) : https://apps.apple.com/jp/app/waidayo/id1513166077
-- [Koigao](#koigao)（有料アプリ・体験版あり） : https://apps.apple.com/jp/app/id1507679306
-- [3toneFT](#3toneft)（PC側アプリ有料のため確認できず） : https://apps.apple.com/jp/app/3teneft/id1452730104
+- [waidayo](#waidayo) : <https://apps.apple.com/jp/app/waidayo/id1513166077>
+- [Koigao](#koigao)（有料アプリ・体験版あり） : <https://apps.apple.com/jp/app/id1507679306>
+- [3toneFT](#3toneft)（PC側アプリ有料のため確認できず） : <https://apps.apple.com/jp/app/3teneft/id1452730104>
 - [Emosign](#emosign) （有料アプリ・体験版あり。現在体験版）: TestFlightでベータ版公開中
 - [バ美肉Camera（仮）](#バ美肉camera仮) : 自作アプリ
 
@@ -56,7 +56,7 @@ ARKitのFaceTrackingでは無いため、TuneDepthカメラ非搭載の端末で
 なお、Live2Dのモデルも読み込める。（むしろこちらがメインの模様）
 
 参考：  
-https://github.com/VNOS-official/2dr/wiki
+<https://github.com/VNOS-official/2dr/wiki>
 
 
 ## ZZ3D
@@ -78,7 +78,7 @@ VRoid Hub：対応
 iPadで動作しないわけでは無いが、互換表示モードになるのと、UIがうまく操作できない。  
 
 参考：  
-https://halmin.wixsite.com/zz3d
+<https://halmin.wixsite.com/zz3d>
 
 ## waidayo
 ![](2020-05-26-23-32-56.jpg)
@@ -98,7 +98,7 @@ PC連携がほぼ必須だが、比べたアプリの中で一番使いやすい
 強いて欠点をあげるなら、画面の回転に対応していないことと、首の動きは上下方向にしかオフセットがかけられないことか。（ちなみに、上方向にオフセットをかけられないバグがあるっぽい？）
 
 参考：  
-https://github.com/nmchan/waidayo/wiki
+<https://github.com/nmchan/waidayo/wiki>
 
 ## 恋顔（Koigao）
 ![](2020-05-26-23-37-54.jpg)
@@ -119,8 +119,8 @@ PC連携必須のオーソドックスなアプリ。同一ネットワークで
 noteでは表情の表現の幅を広げることに言及していたので今後に期待。  
 
 参考：  
-https://note.com/hirarichan/n/n59373c645887  
-https://hiragram.github.io/koigao-website/  
+<https://note.com/hirarichan/n/n59373c645887>  
+<https://hiragram.github.io/koigao-website/>  
 
 ## 3toneFT
 動作確認できなかったため画像略  
@@ -137,7 +137,7 @@ PCと連携して使うアプリだたが、有料ということで動作確認
 調査して見つけたので載せるだけ載せておく。  
 
 参考：  
-https://3tene.github.io/WebDocument/#ft_iphone.md
+<https://3tene.github.io/WebDocument/#ft_iphone.md>
 
 ## Emosign（現在ベータ版）
 ![](2020-05-27-23-17-15.jpg)
@@ -157,7 +157,7 @@ VRoid Hub：非対応
 現在ベータ版でTestFlightでの配布であること、体験版はあるものの有料アプリであることにはご注意。  
 
 参考：  
-https://akihiro0105.github.io/EmosignLandingPage/
+<https://akihiro0105.github.io/EmosignLandingPage/>
 
 ## バ美肉Camera（仮）
 ※個人的に作っていたアプリ  
