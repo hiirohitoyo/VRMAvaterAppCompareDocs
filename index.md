@@ -30,8 +30,8 @@ Update: 2020/5/27
 PC： Mac OS Catalina 10.15.4
 
 ## 確認したアプリ一覧
-- [2DR](#2dr) : https://apps.apple.com/us/app/2dr/id1471949953?l=ja
-- [ZZ3D](#zz3d) : https://apps.apple.com/jp/app/zz3d/id1475406292
+- [2DR](#2dr) : [https://apps.apple.com/us/app/2dr/id1471949953?l=ja](https://apps.apple.com/us/app/2dr/id1471949953?l=ja)
+- [ZZ3D](#zz3d) : <https://apps.apple.com/jp/app/zz3d/id1475406292>
 - [waidayo](#waidayo) : https://apps.apple.com/jp/app/waidayo/id1513166077
 - [Koigao](#koigao)（有料アプリ・体験版あり） : https://apps.apple.com/jp/app/id1507679306
 - [3toneFT](#3toneft)（PC側アプリ有料のため確認できず） : https://apps.apple.com/jp/app/3teneft/id1452730104
