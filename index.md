@@ -20,7 +20,7 @@ Auther: 一夜ひいろ [@HiiroHitoyo](https://twitter.com/HiiroHitoyo "@HiiroHi
 
 ## 更新履歴
 Update: 2020/5/27  
-[Emosign](#Emosign現在ベータ版)の記述を追加。
+[Emosign](#emosign現在ベータ版)の記述を追加。
 
 Update: 2020/5/27  
 初版
@@ -30,12 +30,12 @@ Update: 2020/5/27
 PC： Mac OS Catalina 10.15.4
 
 ## 確認したアプリ一覧
-- [2DR](#2DR) : https://apps.apple.com/us/app/2dr/id1471949953?l=ja
-- [ZZ3D](#ZZ3D) : https://apps.apple.com/jp/app/zz3d/id1475406292
+- [2DR](#2dr) : https://apps.apple.com/us/app/2dr/id1471949953?l=ja
+- [ZZ3D](#zz3d) : https://apps.apple.com/jp/app/zz3d/id1475406292
 - [waidayo](#waidayo) : https://apps.apple.com/jp/app/waidayo/id1513166077
-- [Koigao](#Koigao)（有料アプリ・体験版あり） : https://apps.apple.com/jp/app/id1507679306
-- [3toneFT](#3toneFT)（PC側アプリ有料のため確認できず） : https://apps.apple.com/jp/app/3teneft/id1452730104
-- [Emosign](#Emosign) （有料アプリ・体験版あり。現在体験版）: TestFlightでベータ版公開中
+- [Koigao](#koigao)（有料アプリ・体験版あり） : https://apps.apple.com/jp/app/id1507679306
+- [3toneFT](#3toneft)（PC側アプリ有料のため確認できず） : https://apps.apple.com/jp/app/3teneft/id1452730104
+- [Emosign](#emosign) （有料アプリ・体験版あり。現在体験版）: TestFlightでベータ版公開中
 - [バ美肉Camera（仮）](#バ美肉camera仮) : 自作アプリ
 
 ## 2DR
