@@ -1,5 +1,6 @@
 # VRMモデルとFaceTrackingでバ美肉できるiOSアプリ（PC連携含む）を比べてみた
-一夜ひいろ [@HiiroHitoyo](https://twitter.com/HiiroHitoyo "@HiiroHitoyo")
+Create: 2020/5/27  
+Auther: 一夜ひいろ [@HiiroHitoyo](https://twitter.com/HiiroHitoyo "@HiiroHitoyo")  
 
 ## 背景
 コロナにより空前のバ美肉ブーム！  
